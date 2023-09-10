@@ -1,0 +1,169 @@
+{
+  "fields": [
+    {
+      "id": "authorities_contacted",
+      "text": "Authorities Contacted",
+      "type": "list",
+      "items": [
+        "ambulance",
+        "fire",
+        "none",
+        "police"
+      ]
+    },
+    {
+      "id": "auto_year",
+      "text": "Auto Year",
+      "type": "number"
+    },
+    {
+      "id": "collision_type",
+      "text": "collision_type",
+      "type": "list",
+      "items": [
+        "rear",
+        "front",
+        "side",
+        "na"
+      ]
+    },
+    {
+      "id": "customer_age",
+      "text": "customer_age",
+      "type": "number"
+    },
+    {
+      "id": "customer_education",
+      "text": "customer_education",
+      "type": "text"
+    },
+    {
+      "id": "customer_gender",
+      "text": "customer_gender",
+      "type": "list",
+      "items": [
+        "male",
+        "female"
+      ]
+    },
+    {
+      "id": "driver_relationship",
+      "text": "driver_relationship",
+      "type": "list",
+      "items": [
+        "child",
+        "na",
+        "other",
+        "self",
+        "spouse"
+      ]
+    },
+    {
+      "id": "incident_date",
+      "text": "incident_date",
+      "type": "datetime-local"
+    },
+    {
+      "id": "incident_dow",
+      "text": "incident_dow",
+      "type": "number"
+    },
+    {
+      "id": "incident_severity",
+      "text": "incident_severity",
+      "type": "number"
+    },
+    {
+      "id": "incident_type",
+      "text": "incident_type",
+      "type": "list",
+      "items": [
+        "breakin",
+        "collision",
+        "theft"
+      ]
+    },
+    {
+      "id": "injury_claim",
+      "text": "injury_claim",
+      "type": "float"
+    },
+    {
+      "id": "months_as_customer",
+      "text": "months_as_customer",
+      "type": "number"
+    },
+    {
+      "id": "num_claims_past_year",
+      "text": "num_claims_past_year",
+      "type": "number"
+    },
+    {
+      "id": "num_injuries",
+      "text": "num_injuries",
+      "type": "number"
+    },
+    {
+      "id": "num_insurers_past_5_years",
+      "text": "num_insurers_past_5_years",
+      "type": "number"
+    },
+    {
+      "id": "num_vehicles_involved",
+      "text": "num_vehicles_involved",
+      "type": "number"
+    },
+    {
+      "id": "num_witnesses",
+      "text": "num_witnesses",
+      "type": "number"
+    },
+    {
+      "id": "police_report_available",
+      "text": "police_report_available",
+      "type": "list",
+      "items": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "policy_annual_premium",
+      "text": "policy_annual_premium",
+      "type": "number"
+    },
+    {
+      "id": "policy_deductable",
+      "text": "policy_deductable",
+      "type": "number"
+    },
+    {
+      "id": "policy_liability",
+      "text": "policy_liability",
+      "type": "number"
+    },
+    {
+      "id": "policy_state",
+      "text": "policy_state",
+      "type": "list",
+      "items": [
+        "az",
+        "ca",
+        "id",
+        "nv",
+        "or",
+        "wa"
+      ]
+    },
+    {
+      "id": "total_claim_amount",
+      "text": "total_claim_amount",
+      "type": "float"
+    },
+    {
+      "id": "vehicle_claim",
+      "text": "vehicle_claim",
+      "type": "float"
+    }
+  ]
+}

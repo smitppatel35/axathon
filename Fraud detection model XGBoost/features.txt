@@ -1,0 +1,27 @@
+authorities_contacted [ambulance, fire, none, police]
+auto_year
+collision_type [rear, front, side, na]
+customer_age
+customer_education
+customer_gender [female, male]
+driver_relationship [child, na, other, self, spouse]
+incident_day
+incident_dow
+incident_hour
+incident_month
+incident_severity
+incident_type [breakin, collision, theft]
+injury_claim
+months_as_customer
+num_claims_past_year
+num_injuries
+num_insurers_past_5_years
+num_vehicles_involved
+num_witnesses
+police_report_available (bool)
+policy_annual_premium
+policy_deductable
+policy_liability
+policy_state [az, ca, id, nv, or, wa]
+total_claim_amount
+vehicle_claim
